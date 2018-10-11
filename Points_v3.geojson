@@ -1,0 +1,486 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp1",
+        "Type": "campsite",
+        "title": "Finally getting out there!",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.100442,
+          68.396731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp2",
+        "Type": "campsite",
+        "title": "Fjord vistas are the best",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.001771,
+          68.396785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp3",
+        "Type": "campsite",
+        "title": "My feet are wet, but at least we slept by a waterfall",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.979092,
+          68.350668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp4.1",
+        "Type": "campsite",
+        "title": "Just another day in this magical place",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.846512,
+          68.284532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp4.2",
+        "Type": "campsite",
+        "title": "Layover day :) a.k.a. sleeping, pancakes, and pizza",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.846512,
+          68.284532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp5",
+        "Type": "campsite",
+        "title": "Oh my god I'm on top of a glacier",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76427,
+          68.215901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp6",
+        "Type": "campsite",
+        "title": "More food, more weight, walking on a road sucks",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.924309,
+          68.172759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp7",
+        "Type": "campsite",
+        "title": "WILL RUN FOR SAUNA",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.168659,
+          68.201305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp8",
+        "Type": "campsite",
+        "title": "Lake in the sky, squall central",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.224574,
+          68.238157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp9",
+        "Type": "campsite",
+        "title": "Following the reindeer",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.162384,
+          68.290968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp10",
+        "Type": "campsite",
+        "title": "Are we still on planet Earth?",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.138818,
+          68.34353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp10",
+        "Type": "campsite",
+        "title": "Layover day: Sleeping in Sweden, looking at Norway, thinking about Home",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.138818,
+          68.34353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "basecamp",
+        "Type": "campsite",
+        "title": "No more fuel, but finally a shower!",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.163386,
+          68.419356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo1",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo1-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.098688,
+          68.3976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo2",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo2-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.027191,
+          68.406257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo3",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo3-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.97558,
+          68.350974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo5",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo5-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.84729,
+          68.277266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo4",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo4-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9702,
+          68.336404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo6",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo6-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.767639,
+          68.260741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo7",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo7-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.911835,
+          68.173853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo8",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo8-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.183746,
+          68.202937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo9",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo9-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.228722,
+          68.239496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo10",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo10-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.219109,
+          68.237968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo11",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo11-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1604,
+          68.290351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo12",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo12-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.136368,
+          68.346287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo13",
+        "Type": "photo",
+        "img": "https://github.com/mirksmirk/interactive-maps/blob/master/Oscar_Manguy_photos/Lo-Res/photo13-lo-res.jpg?raw=true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.159714,
+          68.41952
+        ]
+      }
+    }
+  ]
+}
