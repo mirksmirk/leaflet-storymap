@@ -40,7 +40,7 @@ function initMap() {
           layer.setIcon(numericMarker);
 
           // This creates the contents of each chapter from the GeoJSON data. Unwanted items can be removed, and new ones can be added
-           var title = $('<p></p>', {
+           var chapter = $('<p></p>', {
             text: feature.properties['title'],
             class: 'chapter-header'
           });
@@ -73,7 +73,7 @@ function initMap() {
 
           imgHolder.append(image);
 
-          container.append(chapter).append(imgHolder).append(source).append(description);
+          container.append(chapter).append(imgHolder).append(source).append(Type);
           $('#contents').append(container);
 
           var i;
