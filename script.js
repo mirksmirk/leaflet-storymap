@@ -11,7 +11,7 @@ function initMap() {
   // This creates the Leaflet map with a generic start point, because code at bottom automatically fits bounds to all markers
   var map = L.map('map', {
     center: [0, 0],
-    zoom: 8,
+    zoom: 5,
     scrollWheelZoom: false
   });
 
